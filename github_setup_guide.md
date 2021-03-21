@@ -14,7 +14,7 @@ window*. This isn't necessary, as Windows' console window has some limitations, 
 with the Linux command line.
 
 ## Step 3: Create a GitHub account
-Create a GitHub account on [github.com](https://github.com/)
+Create a GitHub account on [github.com](https://github.com/).
 
 ## Step 4: Create an empty repository
 Once on your github account, click on the plus in the top right corner, and then click *New repository*. 
