@@ -24,8 +24,6 @@ Only one person per group needs to do this if you all plan to work on the same c
 
 <img src="images/screenshot1.png" width="300">
 
-newline
-
 <img src="images/screenshot2.png" width="900">
 
 ### Step 5: Sharing the repository
