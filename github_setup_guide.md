@@ -22,7 +22,11 @@ Initialize the repository with a README file.
 
 Only one person per group needs to do this if you all plan to work on the same code. 
 
-<img src="images/screenshot2.png" width="300">
+<img src="images/screenshot1.png" width="300">
+
+newline
+
+<img src="images/screenshot2.png" width="900">
 
 ### Step 5: Sharing the repository
 Once you have the repository open on github, click on *Settings* and then *Manage access* to control who has access 
